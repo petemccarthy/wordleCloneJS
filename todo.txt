@@ -1,0 +1,16 @@
+Bugs
+=====
+1. Fix the fact that I can have an empty space between letters.  
+Need to add eventListener directly on the Element instead of Window
+
+
+
+Features
+========
+1.  Show console.logs on screen
+2.  Add entire dictionary to wordList
+3.  Change word daily.
+4.  Add keyboard
+5.  How to play screen
+6.  Statistics modal
+7. Settings screen

@@ -1,0 +1,27 @@
+body {
+    background: black;
+}
+
+input {
+    border: 1px solid #86888a;
+    background: black;
+    height: 60px;
+    width: 60px;
+    margin: 5px;
+    color: white;
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    caret-color: transparent;
+}
+
+#board {
+    width: 100vw;
+    margin: 20em auto;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
